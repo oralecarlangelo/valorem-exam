@@ -2,5 +2,6 @@
 # sst
 .sst
 node_modules
+coverage
 
 .env
